@@ -1,0 +1,11 @@
+// @import "globals.scss";
+@use 'globals' as *;
+.navbar {
+    position: relative !important;
+    background-color: $greenColor;
+    display: flex !important;
+    flex-direction: row !important;
+    .languageLogo{
+        width: 1em;
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "generics": {
+        "back": "Back",
+        "Unknown": "Unknown",
+        "goToList": "Go to the list",
+        "pageNotFound": "The page has not been found or something failed.",
+        "pageNotFoundSentence1": "Return to the main page please."
+    },
+    "header": {
+        "title": "Breaking Bad Wiki",
+        "changeLanguage": "Change language"
+    },
+    "footer": {
+        "allRightsLabel": "This page has all the rights."
+    },
+    "profile": {
+        "profile": "Profile",
+        "realName": "Real name",
+        "born":"Birthday",
+        "status": "Status",
+        "Deceased": "Deceased",
+        "Alive": "Alive",
+        "occupation": "Occupation",
+        "episodes": "Episodes",
+        "characterFamousPhrase": "Famous phrase of the character",
+        "noFamousPhrase": "Character has not famous phrase",
+        "refreshSentence": "Refresh another sentence",
+        "goToProfile": "Go to profile"
+    },
+    "welcome": {
+        "title": "Welcome!",
+        "sentence1":"Welcome to the Breaking Bad Wiki Lite version.",
+        "sentence2": "In this mini app you will be able to see information about the characters of one of the best and famous series in the history.",
+        "sentence3": "This app is still in progress."
+    }
+}

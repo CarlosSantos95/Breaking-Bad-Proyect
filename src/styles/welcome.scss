@@ -1,0 +1,23 @@
+@use 'globals' as *;
+.welcomeCard {
+    width: 50%;
+    align-items: center;
+    margin: auto;
+    height: 100%;
+    overflow: auto !important;
+    .wallpaperImage {
+        height: 70%;
+    }
+    .welcomeText {
+        text-align: center;
+    }
+    p {
+        margin: 5px;
+    }
+    .buttonWrapper {
+        button {
+            margin-top: 10px;
+            background-color: $greenColor;
+        }
+    }
+}
